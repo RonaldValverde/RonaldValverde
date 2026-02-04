@@ -29,7 +29,7 @@ I am a Software Development Student and an aspiring Software Developer. I'm pass
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonaldValverde&show_icons=true&theme=radical)
-
+![Estadísticas de Ronald](https://github-readme-stats.vercel.app/api?username=RonaldValverde&show_icons=true&theme=dark)
 ---
 
 ## 📫 How to reach me
